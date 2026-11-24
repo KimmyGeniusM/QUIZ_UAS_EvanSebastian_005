@@ -1,0 +1,5 @@
+program KodeRahasia;
+
+
+
+function kunci()
